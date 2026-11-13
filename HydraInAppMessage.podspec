@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name             = 'HydraInAppMessage'
-  s.version          = '1.10.6'
+  s.version          = '1.10.7'
   s.summary          = 'In-app messaging for Hydra SDK.'
   s.homepage         = 'https://github.com/Capillary/hydra-ios-sdk-spm'
   s.license          = { :type => 'Proprietary', :text => 'Copyright Capillary, Inc. All rights reserved.' }
   s.authors          = 'Capillary, Inc.'
-  s.source           = { :http => 'https://github.com/Capillary/hydra-ios-sdk-spm/releases/download/1.10.6/HydraInAppMessage.zip', :sha256 => 'd46dfc6171cfebf694f79c3d86dafbfeb7e82a91daba69779da22d87bddd6a34' }
+  s.source           = { :http => 'https://github.com/Capillary/hydra-ios-sdk-spm/releases/download/1.10.7/HydraInAppMessage.zip', :sha256 => '9eef108eb5eac1130d7bd048efc82490fd9be983717ec763a32cbc715436f444' }
   s.ios.deployment_target = '15.6'
   s.swift_version    = '5.10'
 
