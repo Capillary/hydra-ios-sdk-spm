@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name             = 'HydraInboxUI'
-  s.version          = '1.10.6'
+  s.version          = '1.10.7'
   s.summary          = 'Inbox UI for Hydra SDK.'
   s.homepage         = 'https://github.com/Capillary/hydra-ios-sdk-spm'
   s.license          = { :type => 'Proprietary', :text => 'Copyright Capillary, Inc. All rights reserved.' }
   s.authors          = 'Capillary, Inc.'
-  s.source           = { :http => 'https://github.com/Capillary/hydra-ios-sdk-spm/releases/download/1.10.6/HydraInboxUI.zip', :sha256 => '1677290f9027246de56b11dd72e943bce8d39a3f22e6dfb0b0d291e06845a3da' }
+  s.source           = { :http => 'https://github.com/Capillary/hydra-ios-sdk-spm/releases/download/1.10.7/HydraInboxUI.zip', :sha256 => 'bf54ec8e2fedd1fd43c09e1710b52660c0476c133651cfd521c389aee7d2f787' }
   s.ios.deployment_target = '15.6'
   s.swift_version    = '5.10'
 
